@@ -1,4 +1,3 @@
-package june9;
 
 import java.util.Scanner;
 
