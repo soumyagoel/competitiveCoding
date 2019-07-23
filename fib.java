@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-
 public class fib {
 	public static void main(String[] args)
 	{
