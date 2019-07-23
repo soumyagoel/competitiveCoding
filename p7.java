@@ -1,6 +1,4 @@
 
-package june9;
-
 import java.util.Scanner;
 
 public class p7 {
