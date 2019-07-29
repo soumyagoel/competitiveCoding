@@ -1,4 +1,4 @@
-package june14;
+
 public class exitpoint 
 {
 	/**
