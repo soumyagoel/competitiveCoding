@@ -1,5 +1,4 @@
-package june14;
-
+import java.util.*;
 public class wavecol {
 
 	/**
