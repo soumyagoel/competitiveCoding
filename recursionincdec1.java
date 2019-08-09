@@ -1,4 +1,4 @@
-package june16;
+
 import java.util.Scanner;
 public class recursionincdec1 
 {
