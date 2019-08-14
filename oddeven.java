@@ -1,28 +1,44 @@
-
-import java.util.Scanner;
+package june19;
 
 public class oddeven {
+
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
-		Scanner scn = new Scanner(System.in);
-		System.out.print("enter a number");
-		int n = scn.nextInt();
-		int rem, a, b, c;
-		a = 0;
-		b = 0;
-		c = 1;
-		while (n != 0) {
-			rem = n % 10;
-			if (c % 2 == 0) {
-				a = a + rem;
+		// TODO Auto-generated method stub
+		StringBuilder ab=new StringBuilder("abej");
+		odev(ab);
+	}
+	public static void odev(StringBuilder sb)
+	{
+		char nch=0;
+		StringBuilder s=new StringBuilder();
+		for(int i=0;i<sb.length();i++)
+		{
+			if(i%2==0)
+			{
+				nch=(char)(sb.charAt(i)+1);
+//				s.append(nch);
 			}
-			if (c % 2 != 0) {
-				b = b + rem;
+			else
+			{
+				nch=(char)(sb.charAt(i)-1);
+//				s.append(nch);
 			}
-			c = c + 1;
-			n = n / 10;
+		
+		s.append(nch);
 		}
-		System.out.println(b);
-		System.out.println(a);
+//		s.append(sb.charAt(sb.length()-1));
+//		if((sb.length()-1)%2==0)
+//		{
+//			nch=(char)(sb.charAt(sb.length()-1)+1);
+//		}
+//		else
+//		{
+//			nch=(char)(sb.charAt(sb.length()-1)-1);
+//		}
+		System.out.print(s);
 		
 	}
 
