@@ -1,4 +1,4 @@
-package june19;
+
 public class maxfreq 
 {
 	public static void main(String[] args) 
