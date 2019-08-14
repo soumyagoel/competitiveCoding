@@ -1,4 +1,3 @@
-package june19;
 
 public class oddeven {
 
