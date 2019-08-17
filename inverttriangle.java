@@ -1,4 +1,4 @@
-package june21;
+
 public class inverttriangle 
 {
 	/**
