@@ -1,4 +1,4 @@
-package june21;
+
 import java.util.*;
 public class recselection {
     public static Scanner scn=new Scanner(System.in);
