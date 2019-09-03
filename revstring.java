@@ -1,4 +1,3 @@
-package june26;
 
 public class revstring {
 
