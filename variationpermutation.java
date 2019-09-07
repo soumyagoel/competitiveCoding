@@ -1,4 +1,4 @@
-package june26;
+
 public class variationpermutation {
 
 	/**
