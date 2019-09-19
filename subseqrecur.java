@@ -1,4 +1,3 @@
-package june28;
 
 import java.util.ArrayList;
 import java.util.Scanner;
