@@ -1,4 +1,4 @@
-package june30;
+
 import java.util.Scanner;
 public class mergesortedarray
 {
