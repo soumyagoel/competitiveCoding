@@ -1,4 +1,3 @@
-package july7;
 
 import java.util.Arrays;
 
