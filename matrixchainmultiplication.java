@@ -1,4 +1,3 @@
-package july10;
 
 public class matrixchainmultiplication {
 	/**
