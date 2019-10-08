@@ -1,4 +1,3 @@
-package july12;
 
 public class Stackclient
 {
