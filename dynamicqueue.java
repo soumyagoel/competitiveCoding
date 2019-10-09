@@ -1,4 +1,3 @@
-package july17;
 
 public class dynamicqueue extends queue
 {
