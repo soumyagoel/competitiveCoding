@@ -1,4 +1,3 @@
-package july18;
 
 public class queueUsingLinkedList {
 	linkedlist l1=new linkedlist();
