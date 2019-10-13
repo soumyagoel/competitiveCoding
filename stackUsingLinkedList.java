@@ -1,4 +1,3 @@
-package july18;
 
 public class stackUsingLinkedList {
 	linkedlist l3=new linkedlist();
