@@ -1,66 +1,43 @@
+package july24;
 
 public class client {
 
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args)throws Exception {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		linkedlist ll=new linkedlist();
-		ll.AddLast(9);
-		ll.AddLast(10);
-		ll.AddLast(2);
-		ll.AddLast(50);
-//		ll.display();
-		ll.AddLast(35);
-//		ll.display();
-		ll.AddLast(5);
-		ll.display();
-		
-		ll.hasCycle();
-//		ll.insertionsort() ;
-//		ll.display();
-//		ll.AddFirst(100);
-//		ll.display();
-//		ll.addAt(1000,3);
-//		ll.display();
-//		ll.removeAt(3);
-//		ll.display();
-//		System.out.println(ll.size());
-//		ll.removeLast();
-//		ll.display();
-//		ll.removeLast();
-//		ll.display();
-//		ll.removeFirst();
-//		ll.display();
-//		ll.reversedataIterative();
-//		ll.display();
-//		ll.reverseIterativePointer();
-//		ll.display();
-//		ll.reversePointerRecursive();
-//		ll.display();
-//		ll.reverseDataRecursive();
-//		ll.display();
-//		ll.isPallindrome();
-//		ll.fold();
-//		ll.display();
-//		System.out.println(ll.kthfromLast(3));
-//		System.out.println(ll.midelement());
-//		ll.removeDuplicate();
-//		ll.display();
-//		ll=ll.mergesort();
-//		ll.display();
-//		ll.kreverse(2);
-//		ll.display();
-//		ll.swaptwoelements(0, 2);
-//		ll.display();
-//		ll=ll.oddeven();
-//		ll.display();
-//		ll.bubblesort();
-//		ll.display();
-//		ll.selectionsort();
-//		ll.display();
-//		
+//		10 3 20 2 50 0 60 0 30 3 70 0 80 0 90 0 40 1 55 0
+		GenericTree gt=new GenericTree();
+		gt.display();
+//		int b=gt.size2();
+//		System.out.println(b);
+//		int c=gt.max();
+//		System.out.println(c);
+//		boolean d=gt.find();
+//		System.out.println(d);
+//        int e=gt.height();
+//        System.out.println(e);
+//		gt.mirror();
+//		gt.display();
+//		gt.printAtLevel();
+//		gt.preOrder();
+//		gt.postOrder();
+//		gt.levelOrder();
+//		gt.levelOrderWithLevel();
+//		gt.display();
+//		gt.MultiSolver(50);
+//		gt.kthsmallest(6);
+//		gt.display();
+//		gt.removeLeaves();
+//		gt.display();
+//		gt.display();
+//		gt.linearize();
+//		gt.display();
+//		gt.display();
+//		gt.levelOrderZigZag();
+//		gt.display();
+//		System.out.println(gt.isisomorphic());
 	}
 
 }
