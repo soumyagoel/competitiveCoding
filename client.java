@@ -1,4 +1,3 @@
-package july24;
 
 public class client {
 
