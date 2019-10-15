@@ -1,4 +1,3 @@
-package july24;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
