@@ -1,4 +1,3 @@
-package july31;
 
 public class clientgenericinteface {
 
