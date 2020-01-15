@@ -1,4 +1,3 @@
-package aug2;
 
 public class HuffClient {
 
